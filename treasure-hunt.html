@@ -1,0 +1,75 @@
+﻿
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>TREASURE HUNT</title>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+    <link rel="stylesheet" href="css/reset.css" />
+    <link rel="stylesheet" href="css/main.css" />
+    <script src="scripts/form-script.js"></script>
+</head>
+
+<body>
+    <canvas>background</canvas>
+
+    <nav class="navbar navbar-inverse">
+        <div class="container-fluid">
+            <ul class="nav navbar-nav">
+                <li><a href="index.html">Home</a></li>
+                <li><a href="treasure-hunt.html">Treasure Hunt</a></li>
+                <li><a href="planning.html">Planning</a></li>
+            </ul>
+        </div>
+    </nav>
+
+    <div class="container">
+        <div class="animationWrapper">
+            <div class="animation">
+                <iframe src="design/final map.html" height="420" width="600"></iframe>
+            </div>
+
+            <div class="form">
+                <form name="myForm"
+                      onsubmit="return validateForm()">
+                    <span class="code">Code</span>  <input id="text" type="text" name="fname">
+                    <input id="submit" type="submit" value="Submit">
+                </form>
+            </div>
+        </div>
+
+        <div class="accordionWrapper">
+            <button class="accordion">What is the Treasure Hunt?</button>
+            <div class="panel">
+                <p>
+                    The treasure hunt was a project I completed for my Certificate in
+                    digital applications coursework. I was tasked to create and interactive
+                    treasure hunt and then create a website using Dreamweaver to present my methodology.
+                </p>
+            </div>
+
+            <button class="accordion">What is the goal of this website?</button>
+            <div class="panel">
+                <p>
+                    This website was created to showcase how a project from Dreamweaver was changed to one
+                    using HTML, CSS and JavaScript.
+                </p>
+            </div>
+
+            <button class="accordion">What I have learnt?</button>
+            <div class="panel">
+                <p>
+                    During this project I have learnt how to use frameworks like bootstrap to build the foundation
+                    of a webpage then use my own knowledge to build upon this and customize the template to make 
+                    it my own.
+                </p>
+            </div>
+        </div>
+    </div>
+
+    <script src="scripts/accordion-script.js"></script>
+    <script src="scripts/canvas-script.js"></script>
+</body>
+</html>

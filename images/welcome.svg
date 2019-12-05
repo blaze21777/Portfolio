@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:osb="http://www.openswatchbook.org/uri/2009/osb"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)"
+   sodipodi:docname="welcome.svg">
+  <defs
+     id="defs2">
+    <pattern
+       inkscape:isstock="true"
+       inkscape:stockid="Stripes 1:1"
+       id="Strips1_1"
+       patternTransform="translate(0,0) scale(10,10)"
+       height="1"
+       width="2"
+       patternUnits="userSpaceOnUse"
+       inkscape:collect="always">
+      <rect
+         id="rect1567"
+         height="2"
+         width="1"
+         y="-0.5"
+         x="0"
+         style="fill:black;stroke:none" />
+    </pattern>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient2323">
+      <stop
+         style="stop-color:#f4a23c;stop-opacity:1;"
+         offset="0"
+         id="stop2319" />
+      <stop
+         style="stop-color:#f4a23c;stop-opacity:0;"
+         offset="1"
+         id="stop2321" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient2287"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#f4a23c;stop-opacity:1;"
+         offset="0"
+         id="stop2285" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient2323"
+       id="linearGradient2325"
+       x1="22.655899"
+       y1="129.58948"
+       x2="164.43267"
+       y2="129.58948"
+       gradientUnits="userSpaceOnUse" />
+    <meshgradient
+       inkscape:collect="always"
+       id="meshgradient2337"
+       gradientUnits="userSpaceOnUse"
+       x="23.094191"
+       y="28.466951">
+      <meshrow
+         id="meshrow2339">
+        <meshpatch
+           id="meshpatch2341">
+          <stop
+             path="c 46.9667,0  93.9335,0  140.9,0"
+             style="stop-color:#ffffff;stop-opacity:1"
+             id="stop2343" />
+          <stop
+             path="c 0,67.415  0,134.83  0,202.245"
+             style="stop-color:#000000;stop-opacity:1"
+             id="stop2345" />
+          <stop
+             path="c -46.9667,0  -93.9335,0  -140.9,0"
+             style="stop-color:#ffffff;stop-opacity:1"
+             id="stop2347" />
+          <stop
+             path="c 0,-67.415  0,-134.83  0,-202.245"
+             style="stop-color:#000000;stop-opacity:1"
+             id="stop2349" />
+        </meshpatch>
+      </meshrow>
+    </meshgradient>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.49497475"
+     inkscape:cx="370.80168"
+     inkscape:cy="626.27836"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="958"
+     inkscape:window-height="1008"
+     inkscape:window-x="953"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:bold;font-size:35.06328829px;line-height:1.25;font-family:CabinSketch;letter-spacing:0px;word-spacing:0px;fill:url(#Strips1_1);fill-opacity:1.0;stroke:#f4a23c;stroke-width:0.87658525;-inkscape-font-specification:'CabinSketch, Bold';font-stretch:normal;font-variant:normal;text-anchor:start;text-align:start;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;stroke-opacity:1"
+       x="22.778622"
+       y="53.677456"
+       id="text817"><tspan
+         sodipodi:role="line"
+         id="tspan815"
+         x="22.778622"
+         y="53.677456"
+         style="stroke-width:0.87658525;-inkscape-font-specification:'CabinSketch, Bold';font-family:CabinSketch;font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;font-size:35.06328829px;text-anchor:start;text-align:start;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;stroke:#f4a23c;stroke-opacity:1;fill-opacity:1.0;fill:url(#Strips1_1)">Welcome</tspan><tspan
+         sodipodi:role="line"
+         x="22.778622"
+         y="97.506721"
+         style="stroke-width:0.87658525;-inkscape-font-specification:'CabinSketch, Bold';font-family:CabinSketch;font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;font-size:35.06328829px;text-anchor:start;text-align:start;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;stroke:#f4a23c;stroke-opacity:1;fill-opacity:1.0;fill:url(#Strips1_1)"
+         id="tspan819">To my</tspan><tspan
+         sodipodi:role="line"
+         x="22.778622"
+         y="141.33598"
+         style="stroke-width:0.87658525;-inkscape-font-specification:'CabinSketch, Bold';font-family:CabinSketch;font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;font-size:35.06328829px;text-anchor:start;text-align:start;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;stroke:#f4a23c;stroke-opacity:1;fill-opacity:1.0;fill:url(#Strips1_1)"
+         id="tspan821">Treasure</tspan><tspan
+         sodipodi:role="line"
+         x="22.778622"
+         y="185.16525"
+         style="stroke-width:0.87658525;-inkscape-font-specification:'CabinSketch, Bold';font-family:CabinSketch;font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;font-size:35.06328829px;text-anchor:start;text-align:start;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;stroke:#f4a23c;stroke-opacity:1;fill-opacity:1.0;fill:url(#Strips1_1)"
+         id="tspan823">Hunt </tspan><tspan
+         sodipodi:role="line"
+         x="22.778622"
+         y="228.99451"
+         style="stroke-width:0.87658525;-inkscape-font-specification:'CabinSketch, Bold';font-family:CabinSketch;font-weight:bold;font-style:normal;font-stretch:normal;font-variant:normal;font-size:35.06328829px;text-anchor:start;text-align:start;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;stroke:#f4a23c;stroke-opacity:1;fill-opacity:1.0;fill:url(#Strips1_1)"
+         id="tspan825">Portfolio</tspan></text>
+  </g>
+</svg>
